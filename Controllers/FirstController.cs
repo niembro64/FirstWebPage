@@ -12,6 +12,9 @@ namespace FirstWebPage.Controllers
     [Route("")] // empty is front page
     public ViewResult Index()
     {
+
+      string[] myArray = new string[] {"ciao", "sup", "three"};
+      ViewBag.StringArray = myArray;
       // return "Hello from the controller - edited version";
       return View("Index");
     }
