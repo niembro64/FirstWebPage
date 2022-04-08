@@ -14407,8 +14407,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.4\\FirstWebPage\\Views\\First\\Form.cshtml",
+      "TargetPath": "Views\\First\\Form.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.4\\FirstWebPage\\Views\\First\\second.cshtml",
       "TargetPath": "Views\\First\\second.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.4\\FirstWebPage\\Views\\First\\Success.cshtml",
+      "TargetPath": "Views\\First\\Success.cshtml",
       "FileKind": "mvc"
     }
   ],

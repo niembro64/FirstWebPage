@@ -30,3 +30,5 @@ C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\n
 C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.Views.pdb
 C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.csproj.CopyComplete
 C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\Razor\Views\First\second.cshtml.g.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\Razor\Views\First\Form.cshtml.g.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\Razor\Views\First\Success.cshtml.g.cs

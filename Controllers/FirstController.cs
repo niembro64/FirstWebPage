@@ -1,4 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
 
 namespace FirstWebPage.Controllers
 {
@@ -13,17 +15,16 @@ namespace FirstWebPage.Controllers
     public ViewResult Index()
     {
 
-      string[] myArray = new string[] {"ciao", "sup", "three"};
+      string[] myArray = new string[] { "ciao", "sup", "three" };
       ViewBag.StringArray = myArray;
       // return "Hello from the controller - edited version";
       return View("Index");
     }
 
 
-    // get
+
     [HttpGet]
-    // tell it what name of route is
-    [Route("/second")] // empty is front page
+    [Route("/second")]
     public ViewResult Second()
     {
 
@@ -31,7 +32,35 @@ namespace FirstWebPage.Controllers
       return View("Second");
     }
 
-    // post
+    [HttpGet("redirect")]
+    public RedirectToActionResult Redirect()
+    {
+      return RedirectToAction("Second");
+    }
+
+
+    [HttpGet("form")]
+    public ViewResult Form()
+    {
+      return View();
+    }
+
+    [HttpPost("postForm")]
+    public IActionResult postForm(string name, string color, int number){
+      Console.WriteLine($"name: {name}");
+      Console.WriteLine($"color: {color}");
+      Console.WriteLine($"number: {number}");
+      ViewBag.name = name;
+      ViewBag.color = color;
+      ViewBag.number = number;
+      return View("Success");
+      // return RedirectToAction("Success");
+    }
+
+    [HttpGet("Success")]
+    public IActionResult Success(){
+      return View();
+    }
 
 
   }
