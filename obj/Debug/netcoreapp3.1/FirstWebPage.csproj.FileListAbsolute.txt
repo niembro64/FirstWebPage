@@ -18,3 +18,15 @@ C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\n
 C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.dll
 C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.pdb
 C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.genruntimeconfig.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.RazorAssemblyInfo.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.RazorAssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\bin\Debug\netcoreapp3.1\FirstWebPage.Views.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\bin\Debug\netcoreapp3.1\FirstWebPage.Views.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.TagHelpers.input.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.TagHelpers.output.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.RazorCoreGenerate.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\Razor\Views\First\Index.cshtml.g.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.RazorTargetAssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.Views.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\FirstWebPage.csproj.CopyComplete
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.4\FirstWebPage\obj\Debug\netcoreapp3.1\Razor\Views\First\second.cshtml.g.cs

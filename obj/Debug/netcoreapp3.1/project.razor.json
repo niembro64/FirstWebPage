@@ -14400,6 +14400,17 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "FirstWebPage",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.4\\FirstWebPage\\Views\\First\\Index.cshtml",
+      "TargetPath": "Views\\First\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\nieme\\Documents\\CodingDojo\\CSharpStack2022\\1.4\\FirstWebPage\\Views\\First\\second.cshtml",
+      "TargetPath": "Views\\First\\second.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
