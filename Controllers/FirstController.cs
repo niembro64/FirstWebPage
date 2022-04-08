@@ -17,13 +17,14 @@ namespace FirstWebPage.Controllers
     }
 
 
-        // get
+    // get
     [HttpGet]
     // tell it what name of route is
     [Route("/second")] // empty is front page
     public ViewResult Second()
     {
-      // return "Hello from the controller - edited version";
+
+      ViewBag.myVariable = "This is coming from my viewbag";
       return View("Second");
     }
 
